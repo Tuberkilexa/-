@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main(){
+    map luntik{
+        private:
+        double x, Vx, y, Vy;
+        double answ;
+        public:
+        luntik()
+        {
+            cout <<"Кажется, я родился">> endl;
+        }
+    }
+}
